@@ -2,7 +2,7 @@
 
 This is a straight edge paper cutter that uses a commonly available "Paper trimmer replacement blades" on eBay/Amazon and arts and crafts stores in your area. Just search for "paper trimmer blades".
 
-This cutter works with the WORKLION, Firbon, LETION paper trimmer blades. Fiskars and other are not tested and probably will not work with those.
+This cutter works with the WORKLION, Firbon, LETION paper trimmer blades. Fiskars and other are not tested and probably will not work with those. Please check before printing.
 
 ![](images/main_view.jpg)
 
